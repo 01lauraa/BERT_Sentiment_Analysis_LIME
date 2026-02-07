@@ -1,1 +1,1 @@
-Training BERT model on sentiment classification of IMDB movie reviews dataset. Using LIME to interpret BERT's decisions and valence assigned to words.
+Training BERT model on sentiment classification of IMDB movie reviews dataset (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). Using LIME to interpret BERT's decisions and valence assigned to words.
